@@ -1,0 +1,1 @@
+Esse código é apenas alguns dos modelos das principais Functions que são usadas no PHP, caso alguem se interessar, poderá fazer um pull com alguns outros principais modelos usados, apenas para fins de conhecimento
